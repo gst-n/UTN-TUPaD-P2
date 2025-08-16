@@ -20,7 +20,7 @@ La suma de los números pares es: 6
  */
 public class main {
     public static void main (String[] args){
-        System.out.println("--EJERCICIO 05--");
+        System.out.println("===EJERCICIO 05===");
        Scanner input = new Scanner(System.in);
        int numero;
        int suma =0;
